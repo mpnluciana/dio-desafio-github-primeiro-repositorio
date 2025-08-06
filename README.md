@@ -1,2 +1,2 @@
-# Desafio de projeto de Got/GitHub da DIO
+# Desafio de projeto de Git/GitHub da DIO
 Primeiro desafio de projeto feito pela DIO: repositório GitHub.
